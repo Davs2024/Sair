@@ -50,7 +50,7 @@
     <div class="painel">
         <h1>Vamos sair sabado?</h1>
 
-        <a href="https://www.youtube.com/watch?v=orWnzqBA63w&ab_channel=YusufScott"><button id="sim"> Sim! </button></a>
+        <a href="https://https://youtu.be/qszgxn01eK8"><button id="sim"> Sim! </button></a>
         <button onmouseover="fuja()" id="nao"> Não </button>
     </div>
 
